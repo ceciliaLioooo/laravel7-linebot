@@ -1,0 +1,18 @@
+{"destination":"Uc9b70f82f85646365110c8829cb96f5f",
+"events":
+      [{
+            "type":"message",
+            "message":{
+                  "type":"text",
+                  "id":"14318813260331",
+                  "text":"1"
+                  },
+            "timestamp":1625132224700,
+            "source":{
+                  "type":"user",
+                  "userId":"Ud46768225c681f2aa472fe2d3387df86"
+                  },
+            "replyToken":"31feefbc9ee44acd9bd9033c6d6fdde8",
+            "mode":"active"
+      }]
+}
